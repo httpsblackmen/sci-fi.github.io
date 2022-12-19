@@ -1,0 +1,23 @@
+@media (max-width: 600px) {
+    .brand2{
+        width: 200px; 
+    } 
+    .space{ 
+        
+        padding-top: 20px;
+    } 
+    .ft{
+        margin-left: 0px;
+    }
+} 
+@media (max-width: 220px) {
+    .brand2{
+        width: 100px;
+    }
+} 
+@media (max-width: 220px) {
+    .brand{
+        width: 100px;
+    }
+}  
+
